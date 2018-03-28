@@ -1,0 +1,28 @@
+footer .m-social li
+{
+	display: inline-block;
+	padding-top: 20px;
+}
+footer .m-social li a
+{
+	color: #ddd;
+}
+footer .m-social li a:hover
+{
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 10.2pt
+}
+footer 
+{
+	background-color: #183e56;
+	margin-bottom: 0
+}
+footer .m-well
+{
+	padding: 20px
+}
+footer .m-page-header
+{
+	color: #ddd;
+}
